@@ -1,0 +1,33 @@
+C:\Users\root\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\AquaLight.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\AquaLight.csproj.ResolveComReference.cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\root\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\root\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\root\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\Aqualight_MarkupCompile.cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\Aqualight.g.resources
+C:\Users\root\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\Aqualight.Properties.Resources.resources
+C:\Users\root\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\AquaLight.csproj.GenerateResource.Cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Aqualight.exe.config
+C:\Users\root\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Aqualight.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Aqualight.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\Aqualight.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\Aqualight.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\Nachtragen.g.cs
+C:\Users\root\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\Aqualight_MarkupCompile.lref
+C:\Users\root\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\Nachtragen.baml
+C:\ServerFolders\Firma\Sicherung Thomas\AqualightManager\WpfApplication1\bin\Debug\Aqualight.exe.config
+C:\ServerFolders\Firma\Sicherung Thomas\AqualightManager\WpfApplication1\bin\Debug\Aqualight.exe
+C:\ServerFolders\Firma\Sicherung Thomas\AqualightManager\WpfApplication1\bin\Debug\Aqualight.pdb
+C:\ServerFolders\Firma\Sicherung Thomas\AqualightManager\WpfApplication1\obj\Debug\AquaLight.csproj.ResolveComReference.cache
+C:\ServerFolders\Firma\Sicherung Thomas\AqualightManager\WpfApplication1\obj\Debug\MainWindow.baml
+C:\ServerFolders\Firma\Sicherung Thomas\AqualightManager\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\ServerFolders\Firma\Sicherung Thomas\AqualightManager\WpfApplication1\obj\Debug\Nachtragen.g.cs
+C:\ServerFolders\Firma\Sicherung Thomas\AqualightManager\WpfApplication1\obj\Debug\App.g.cs
+C:\ServerFolders\Firma\Sicherung Thomas\AqualightManager\WpfApplication1\obj\Debug\Aqualight_MarkupCompile.cache
+C:\ServerFolders\Firma\Sicherung Thomas\AqualightManager\WpfApplication1\obj\Debug\Aqualight_MarkupCompile.lref
+C:\ServerFolders\Firma\Sicherung Thomas\AqualightManager\WpfApplication1\obj\Debug\Nachtragen.baml
+C:\ServerFolders\Firma\Sicherung Thomas\AqualightManager\WpfApplication1\obj\Debug\Aqualight.g.resources
+C:\ServerFolders\Firma\Sicherung Thomas\AqualightManager\WpfApplication1\obj\Debug\Aqualight.Properties.Resources.resources
+C:\ServerFolders\Firma\Sicherung Thomas\AqualightManager\WpfApplication1\obj\Debug\AquaLight.csproj.GenerateResource.Cache
+C:\ServerFolders\Firma\Sicherung Thomas\AqualightManager\WpfApplication1\obj\Debug\Aqualight.exe
+C:\ServerFolders\Firma\Sicherung Thomas\AqualightManager\WpfApplication1\obj\Debug\Aqualight.pdb
